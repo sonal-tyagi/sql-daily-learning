@@ -1,0 +1,9 @@
+What is Data ?
+What is Database?
+Why we use Database Instead of Spreadsheet?
+What is SQL?
+What is DBMS?
+What is Server?
+Type of Databse
+Structure of Database -> Server, Database, Schema, Table (Rows, Columns, Primary Key, Value)
+SQL Commands -> DDL(Data Definition Language), DML(Data Manipulation Language), DQL(Data Query Language), TCL(Transactional Control Language)
