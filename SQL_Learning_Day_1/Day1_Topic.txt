@@ -1,9 +1,11 @@
-What is Data ?
-What is Database?
-Why we use Database Instead of Spreadsheet?
+This is the List of Topics that I studied on Day 1. All the Notes are present in the form of Images attached in this folder.
+
+What is Data?
+What is a database?
+Why do we use a database instead of a spreadsheet?
 What is SQL?
 What is DBMS?
-What is Server?
+What is a server?
 Type of Databse
 Structure of Database -> Server, Database, Schema, Table (Rows, Columns, Primary Key, Value)
 SQL Commands -> DDL(Data Definition Language), DML(Data Manipulation Language), DQL(Data Query Language), TCL(Transactional Control Language)
